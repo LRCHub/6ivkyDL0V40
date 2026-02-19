@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あした楽しくなあれ",
+  "base_artist": "ZUMA",
+  "createdAt": "2026-02-19T05:58:46.529352Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あした楽しくなあれ",
+      "artist": "ZUMA",
+      "has_synced": false,
+      "path": "select/pl_01_あした楽しくなあれ_ZUMA.txt"
+    }
+  ]
+}
